@@ -189,8 +189,6 @@
   align-items: center;
   justify-content: center;
   margin-top: 150px;
-  display: flex;
-  justify-content: space-between;
 }
 
 .footer-p {
