@@ -38,6 +38,10 @@
 /* navbar end */
 
 /* slider start */
+.bridal-slider-img {
+  height: 584px;
+}
+
 .bridal-slider-h1 {
   font-family: Poppins;
   font-style: normal;
@@ -177,7 +181,7 @@ li {
 }
 
 .bridal-package-border {
-  background: #3f87f5;
+  background: #5243c2;
   box-shadow: 0px 42px 34px rgba(63, 135, 245, 0.25);
   border-radius: 26px;
   height: 480px;
