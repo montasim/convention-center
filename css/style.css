@@ -125,14 +125,8 @@
 }
 /* amazing work end */
 
-.section-package-border {
-  background: #3f87f5;
-  box-shadow: 0px 42px 34px rgba(63, 135, 245, 0.25);
-  border-radius: 26px;
-  height: 480px;
-}
-
-.section-package-h1 {
+/* package start */
+.bridal-package h1 {
   font-family: Roboto;
   font-style: normal;
   font-weight: bold;
@@ -141,7 +135,7 @@
   color: #231d4f;
 }
 
-.section-package-h2 {
+.bridal-package h2 {
   font-family: Roboto;
   font-style: normal;
   font-weight: bold;
@@ -150,7 +144,8 @@
   color: #231d4f;
 }
 
-.section-package-p-li {
+.bridal-package p,
+li {
   font-family: Poppins;
   font-style: normal;
   font-weight: normal;
@@ -160,12 +155,12 @@
   list-style-type: none;
 }
 
-.section-package-p-li .fas {
+.bridal-package .fas {
   margin-right: 10px;
   color: #5243c2;
 }
 
-.section-package-button {
+.bridal-package button {
   width: 207px;
   height: 45px;
   background: #f496d22a;
@@ -181,9 +176,55 @@
   margin: 15px 0;
 }
 
-.section-package-special {
+.bridal-package-border {
+  background: #3f87f5;
+  box-shadow: 0px 42px 34px rgba(63, 135, 245, 0.25);
+  border-radius: 26px;
+  height: 480px;
+}
+
+.bridal-package-special-span {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.833333px;
+  background-color: #ff4e4e;
+  border-radius: 13.5px;
+  color: #ffffff;
+  width: 46px;
+  height: 27px;
+}
+
+.bridal-package-special {
   color: #ffffff;
 }
+
+.bridal-package-special li {
+  color: #ffffff;
+}
+
+.bridal-package-special .fas {
+  margin-right: 10px;
+  color: white;
+}
+
+.bridal-package-special button {
+  height: 45px;
+  background: white;
+  color: #3f87f5;
+  mix-blend-mode: normal;
+  border-radius: 24px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 15px;
+  line-height: 18px;
+  text-align: center;
+  margin: 15px 0;
+}
+/* package end */
 
 .bridal-questions-h1 {
   font-family: Poppins;
