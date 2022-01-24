@@ -58,3 +58,41 @@
   line-height: 24px;
   color: #3f87f5;
 }
+
+.section-moments-img {
+  width: 446px;
+  height: 300px;
+}
+
+.section-moments-h1 {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 38px;
+  line-height: 60px;
+  color: #0a0826;
+}
+
+.section-moments-p {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 28px;
+  color: #6c6c6c;
+}
+
+.section-moments-button {
+  padding: 10px 24px;
+  width: 230px;
+  height: 44px;
+  left: 737px;
+  top: 1037px;
+  background: #3f87f5;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 24px;
+  color: #ffffff;
+}
