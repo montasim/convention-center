@@ -1,6 +1,9 @@
 /* fonts poppins */
 @import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
 
+/* font manrope */
+@import url("https://fonts.googleapis.com/css2?family=Manrope&display=swap");
+
 .modern-nav-a {
   font-family: Poppins;
   font-style: normal;
@@ -19,4 +22,75 @@
   line-height: 24px;
   font-feature-settings: "liga" off;
   color: #3e3e3e;
+}
+
+.modern-section-slider {
+  position: absolute;
+  width: 100%;
+  height: auto;
+  background: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 0.55) 21.92%,
+    rgba(0, 0, 0, 0.418) 160.04%,
+    rgba(0, 0, 0, 0.121) 160.06%
+  );
+  border-radius: 0px 0px 5px 5px;
+}
+
+.modern-section-slider-h2 {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 58px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.modern-section-slider-p {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.modern-section-slider-button {
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  margin-top: 15px;
+  margin-bottom: 40px;
+  width: 168px;
+  height: 44px;
+  background: #ffffff;
+  border-radius: 5px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 24px;
+  color: #3f87f5;
+}
+
+.modern-footer {
+  height: 280px;
+  background: #0b0d17;
+}
+
+.modern-footer-copyright {
+  font-family: Manrope;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  font-feature-settings: "liga" off;
+  color: #d9dbe1;
+}
+
+.modern-footer-images {
+  width: 135px;
+  height: 40px;
 }
