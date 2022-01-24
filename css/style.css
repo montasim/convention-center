@@ -24,20 +24,7 @@
   color: #3e3e3e;
 }
 
-.modern-section-slider {
-  position: absolute;
-  width: 100%;
-  height: auto;
-  background: linear-gradient(
-    180deg,
-    rgba(0, 0, 0, 0.55) 21.92%,
-    rgba(0, 0, 0, 0.418) 160.04%,
-    rgba(0, 0, 0, 0.121) 160.06%
-  );
-  border-radius: 0px 0px 5px 5px;
-}
-
-.modern-section-slider-h2 {
+.modern-section-slider-h1 {
   font-family: Poppins;
   font-style: normal;
   font-weight: 600;
@@ -58,11 +45,8 @@
 }
 
 .modern-section-slider-button {
-  justify-content: center;
-  align-items: center;
   padding: 10px;
-  margin-top: 15px;
-  margin-bottom: 40px;
+  margin: 30px;
   width: 168px;
   height: 44px;
   background: #ffffff;
@@ -73,24 +57,4 @@
   font-size: 16px;
   line-height: 24px;
   color: #3f87f5;
-}
-
-.modern-footer {
-  height: 280px;
-  background: #0b0d17;
-}
-
-.modern-footer-copyright {
-  font-family: Manrope;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 14px;
-  line-height: 24px;
-  font-feature-settings: "liga" off;
-  color: #d9dbe1;
-}
-
-.modern-footer-images {
-  width: 135px;
-  height: 40px;
 }
