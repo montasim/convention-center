@@ -226,6 +226,7 @@ li {
 }
 /* package end */
 
+/* question start */
 .bridal-questions-h1 {
   font-family: Poppins;
   font-style: normal;
@@ -256,17 +257,19 @@ li {
   font-feature-settings: "tnum" on, "lnum" on;
   color: #7e848c;
 }
+/* question start */
 
-.convention-contact {
+/* contact start */
+.bridal-contact {
   margin: 40px 0;
 }
 
-.convention-bg-info {
+.bridal-bg-info {
   background-color: #fceae8;
   border-radius: 36px;
 }
 
-.convention-btn {
+.bridal-btn {
   width: 207px;
   height: 45px;
   color: white;
@@ -281,13 +284,14 @@ li {
   text-align: center;
   margin: 15px 0;
 }
+/* contact end */
 
 .footer {
   height: 280px;
   background: #0b0d17;
   align-items: center;
   justify-content: center;
-  margin-top: 150px;
+  margin-top: 120px;
 }
 
 .footer-p {
