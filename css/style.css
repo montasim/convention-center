@@ -182,3 +182,44 @@
   font-feature-settings: "tnum" on, "lnum" on;
   color: #7e848c;
 }
+
+.footer {
+  height: 280px;
+  background: #0b0d17;
+  align-items: center;
+  justify-content: center;
+  margin-top: 150px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer-p {
+  font-family: Manrope;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  font-feature-settings: "liga" off;
+  color: #d9dbe1;
+  margin: 10%;
+}
+
+.footer-div {
+  margin-right: 10%;
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+}
+
+.footer-h5 {
+  font-family: Manrope;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 28px;
+  font-feature-settings: "liga" off;
+  color: #d9dbe1;
+}
+
+.footer-image {
+  height: 70px;
+}
