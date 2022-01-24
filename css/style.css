@@ -114,6 +114,17 @@
 }
 /* moments start */
 
+/* amazing work start */
+.bridal-amazing-h1 {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 46px;
+  color: #848892;
+}
+/* amazing work end */
+
 .section-package-border {
   background: #3f87f5;
   box-shadow: 0px 42px 34px rgba(63, 135, 245, 0.25);
