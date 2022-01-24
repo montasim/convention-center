@@ -1,3 +1,4 @@
+/* common styles */
 /* fonts poppins */
 @import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
 
@@ -10,7 +11,7 @@
 /* font inter */
 @import url("https://fonts.googleapis.com/css2?family=Inter&display=swap");
 
-.modern-nav-a {
+.bridal-nav-a {
   font-family: Poppins;
   font-style: normal;
   font-weight: bold;
@@ -20,7 +21,7 @@
   color: #3e3e3e;
 }
 
-.modern-nav-li {
+.bridal-nav-li {
   font-family: Poppins;
   font-style: normal;
   font-weight: 500;
@@ -30,7 +31,7 @@
   color: #3e3e3e;
 }
 
-.modern-section-slider-h1 {
+.bridal-section-slider-h1 {
   font-family: Poppins;
   font-style: normal;
   font-weight: 600;
@@ -40,7 +41,7 @@
   color: #ffffff;
 }
 
-.modern-section-slider-p {
+.bridal-section-slider-p {
   font-family: Poppins;
   font-style: normal;
   font-weight: 300;
@@ -50,7 +51,7 @@
   color: #ffffff;
 }
 
-.modern-section-slider-button {
+.bridal-section-slider-button {
   padding: 10px;
   margin: 30px;
   width: 168px;
@@ -163,7 +164,7 @@
   color: #ffffff;
 }
 
-.modern-questions-h1 {
+.bridal-questions-h1 {
   font-family: Poppins;
   font-style: normal;
   font-weight: 600;
@@ -174,7 +175,7 @@
   color: #0d0925;
 }
 
-.modern-nav-button {
+.bridal-nav-button {
   font-family: Inter;
   font-style: normal;
   font-weight: 500;
@@ -184,7 +185,7 @@
   color: #383838;
 }
 
-.modern-questions-paragraph {
+.bridal-questions-paragraph {
   font-family: Inter;
   font-style: normal;
   font-weight: normal;
@@ -192,6 +193,31 @@
   line-height: 28px;
   font-feature-settings: "tnum" on, "lnum" on;
   color: #7e848c;
+}
+
+.convention-contact {
+  margin: 40px 0;
+}
+
+.convention-bg-info {
+  background-color: #fceae8;
+  border-radius: 36px;
+}
+
+.convention-btn {
+  width: 207px;
+  height: 45px;
+  color: white;
+  background-color: #3f87f5;
+  mix-blend-mode: normal;
+  border-radius: 24px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 15px;
+  line-height: 18px;
+  text-align: center;
+  margin: 15px 0;
 }
 
 .footer {
