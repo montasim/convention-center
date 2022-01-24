@@ -103,6 +103,13 @@
   color: #ffffff;
 }
 
+.section-package-border {
+  background: #3f87f5;
+  box-shadow: 0px 42px 34px rgba(63, 135, 245, 0.25);
+  border-radius: 26px;
+  height: 480px;
+}
+
 .section-package-h1 {
   font-family: Roboto;
   font-style: normal;
