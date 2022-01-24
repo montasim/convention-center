@@ -11,6 +11,7 @@
 /* font inter */
 @import url("https://fonts.googleapis.com/css2?family=Inter&display=swap");
 
+/* navbar start */
 .bridal-nav-a {
   font-family: Poppins;
   font-style: normal;
@@ -24,12 +25,13 @@
 .bridal-nav-li {
   font-family: Poppins;
   font-style: normal;
-  font-weight: 500;
+  font-weight: 700;
   font-size: 16px;
   line-height: 24px;
   font-feature-settings: "liga" off;
   color: #3e3e3e;
 }
+/* navbar end */
 
 .bridal-section-slider-h1 {
   font-family: Poppins;
